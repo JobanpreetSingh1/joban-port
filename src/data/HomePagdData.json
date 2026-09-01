@@ -1,0 +1,262 @@
+{
+  "hero": {
+    "imgUrl": "/images/profile.png",
+    "name": "Jobanpreet Singh",
+    "heading": "Hay! I’m Joban",
+    "typingText": ["I'm a Developer", 1500, "I'm a  Web Developer", 1500],
+    "description": "The goal is to create a strong impression on potential clients, employers, or collaborators by reflecting my unique style and expertise..",
+    "btnText": "Get in touch",
+    "btnUrl": "contactus"
+  },
+  "socialBtns": [
+    {
+      "icon": "fa-brands:facebook-f",
+      "iconBgClass": "facebook",
+      "href": "https://www.facebook.com/joban.randhawa.54966?mibextid=rS40aB7S9Ucbxw6v"
+    },
+    { "icon": "fa-brands:github", "iconBgClass": "dribbble", "href": "https://github.com/JobanpreetSingh1" },
+    {
+      "icon": "fa-brands:linkedin-in",
+      "iconBgClass": "linkedin",
+      "href": "https://www.linkedin.com/in/jobanpreet-singh-95279a218/"
+    }
+  ],
+  "brands": [
+    {
+      "src": "/images/html.svg",
+      "alt": "html"
+    },
+    {
+      "src": "/images/css.svg",
+      "alt": "css"
+    },
+    {
+      "src": "/images/js.svg",
+      "alt": "javascript"
+    },
+    {
+      "src": "/images/react.svg",
+      "alt": "react"
+    },
+    {
+      "src": "/images/nodejs.svg",
+      "alt": " nodejs"
+    },
+    {
+      "src": "/images/ex.svg",
+      "alt": "express"
+    },
+    {
+      "src": "/images/mongo.svg",
+      "alt": "mongo"
+    },
+    {
+      "src": "/images/mysql.svg",
+      "alt": "mysql"
+    }
+  ],
+  "about": {
+    "imgSrc": "/images/about-banner-2.png",
+    "miniTitle": "About Us",
+    "title": "I AM AVAILABLE FOR <span>WEB DEVELOPER</span> PROJECTS",
+    "description": "I'm working on developing a portfolio website to showcase my work, skills, and achievements. It will feature a clean, visually appealing design with intuitive navigation to effectively present my projects and creative works. The goal is to create a strong impression on potential clients, employers, or collaborators by reflecting my unique style and expertise.",
+    "funfacts": [
+      {
+        "title": "Google Review",
+        "number": 280
+      },
+      {
+        "title": "Years Experience",
+        "number": 1.5
+      }
+     
+    ],
+    "btnText": "Get in touch",
+    "btnUrl": "contactus"
+  },
+  "projects": {
+    "sectionHeading": {
+      "miniTitle": "My Work",
+      "title": "RECENT PROJECT"
+    },
+    "allProjects": [
+      {
+        "thumbUrl": "/images/popupproject-1.png",
+        "title": "SNGUARDIAN GRID",
+        "subTitle": "Security & Protection Services",
+        "details": {
+          "title": "SNGUARDIAN GRID",
+          "description": "Professional website for a security and protection services brand focused on trust, service visibility, and business credibility.",
+          "type": "Website",
+          "langages": "HTML, CSS, JavaScript",
+          "platform": "Custom Web",
+          "country": "India",
+          "url": "https://snguardiangrid.com/"
+        }
+      },
+      {
+        "thumbUrl": "/images/popupproject-2.png",
+        "title": "Mansfield Street Food Mart",
+        "subTitle": "Food & Grocery Retail",
+        "details": {
+          "title": "Mansfield Street Food Mart",
+          "description": "Retail and food business website designed to showcase products, store identity, and customer engagement.",
+          "type": "Website",
+          "langages": "HTML, CSS, JS, Shopify",
+          "platform": "Custom Web",
+          "country": "United Kingdom",
+          "url": "https://mansfieldstreetfoodmart.com/"
+        }
+      },
+      {
+        "thumbUrl": "/images/popupproject-3.png",
+        "title": "Thermiq Energy Solutions",
+        "subTitle": "Energy & Sustainability",
+        "details": {
+          "title": "Thermiq Energy Solutions",
+          "description": "Modern company website for an energy solutions brand highlighting sustainability, reliability, and service expertise.",
+          "type": "Website",
+          "langages": "HTML, CSS, JS, ",
+          "platform": "Custom Web",
+          "country": "India",
+          "url": "https://thermiqenergysolutions.com/"
+        }
+      },
+      {
+        "thumbUrl": "/images/popupproject-4.png",
+        "title": "Kews Group",
+        "subTitle": "Business & Corporate",
+        "details": {
+          "title": "Kews Group",
+          "description": "Corporate web presence for a business group looking to present services, credibility, and brand professionalism online.",
+          "type": "Website",
+          "langages": "HTML, CSS, JS, Wordpress",
+          "platform": "Custom Web",
+          "country": "India",
+          "url": "https://kewsgroup.com/"
+        }
+      },
+      {
+        "thumbUrl": "/images/popupproject-5.png",
+        "title": "Visionway",
+        "subTitle": "Education & Career Solutions",
+        "details": {
+          "title": "Visionway",
+          "description": "Website for a professional services and education-focused brand designed around clarity, trust, and user engagement.",
+          "type": "Website",
+          "langages": "HTML, CSS, JS, Wordpress",
+          "platform": "Custom Web",
+          "country": "India",
+          "url": "https://visionway.in/"
+        }
+      }
+    ]
+  },
+  "service": {
+    "sectionHeading": {
+      "miniTitle": "SERVICES",
+      "title": "<span>services</span> I am providing"
+    },
+    "allService": [
+      {
+        "imgUrl": "/images/service-01.jpg",
+        "title": "Website Design",
+        "subTitle": "Professional, responsive websites crafted to reflect your brand, engage visitors, and turn leads into customers.",
+        "icon": "bi:brush-fill",
+        "ratings": 5
+      },
+      {
+        "imgUrl": "/images/service-02.jpg",
+        "title": "Website Development",
+        "subTitle": "Modern, fast, and scalable web experiences built for business growth, performance, and seamless user journeys.",
+        "icon": "bi:code-square",
+        "ratings": 4.5
+      },
+      {
+        "imgUrl": "/images/service-03.jpg",
+        "title": "SEO Marketing",
+        "subTitle": "Search-focused strategies that improve rankings, increase visibility, and drive more qualified traffic to your business.",
+        "icon": "bi:speedometer2",
+        "ratings": 5
+      },
+      {
+        "imgUrl": "/images/service-04.jpg",
+        "title": "Graphic Design",
+        "subTitle": "Polished branding and visual assets that strengthen your identity across websites, social media, and marketing materials.",
+        "icon": "bi:palette",
+        "ratings": 5
+      }
+    ]
+  },
+  "experience": {
+    "sectionHeading": {
+      "miniTitle": "Experience",
+      "title": "My Work <span>Experience</span>"
+    },
+    "allExperience": [
+      {
+        "designation": "Wordpress Developer",
+        "company": "VisionWay Ielts and Immigration Pvt Ltd | ONSITE",
+        "duration": "March 2026 - Present",
+        "jobType": "Full time",
+        "companyTitle": "About Company",
+        "companyDescription": "VisionWay Ielts and Immigration Pvt Ltd is a professional services company specializing in IELTS preparation and immigration consulting, dedicated to helping individuals achieve their educational and career goals globally."
+      },
+      {
+         
+        "designation": "Fullstack Developer",
+        "company": "Digotofy | ONSITE",
+        "duration": "July 2024 - Feb2026",
+        "jobType": "Full time",
+        "companyTitle": "About Company",
+        "companyDescription": "Digitofy Global Private Limited is a full service digital marketing & website development company which provides growth solutions to small and medium scale businesses. ."
+      },
+      {
+        "designation": "Front-end Developer",
+        "company": "FUTURE FINDERS | ONSITE",
+        "duration": "Jan 2024 - June 2024",
+        "jobType": "Full time",
+        "companyTitle": "About Company",
+        "companyDescription": "Future Finder is customer-oriented. We pride ourselves on offering a 360 degree approach to software and product development that enables our customers to achieve their business goals and milestones . ."
+      }
+      
+    ]
+  },
+  "testimonial": {
+    "sectionHeading": {
+      "miniTitle": "Testimonial",
+      "title": "Over <span>8,000+</span> <br /> PEOPLE TRUST ME"
+    },
+    "allTestimonial": [
+      {
+        "reviewText": "Donec tellus sem, tempor ac purus a, porttitor lobortis purus. Etiam quis nisl eget ex pulvinar consectetur. Suspendisse potenti. Cras non elementum risus. Fusce massa tellus, consequat a rutrum et, aliquam a lacus. Quisque viverra egestas tincidunt. Nunc nec nisi sed enim consectetur ullamcorper. Vestibulum at neque tortor. Pellentesque urna enim, ultricies at tortor eu, elementum egestas leo. In hac habitasse platea dictumst.",
+        "avatarImg": "/images/avatar-1.jpg",
+        "avatarName": "Pamela Anders",
+        "avatarCompany": "Company Name"
+      },
+      {
+        "reviewText": "Donec tellus sem, tempor ac purus a, porttitor lobortis purus. Etiam quis nisl eget ex pulvinar consectetur. Suspendisse potenti. Cras non elementum risus. Fusce massa tellus, consequat a rutrum et, aliquam a lacus. Quisque viverra egestas tincidunt. Nunc nec nisi sed enim consectetur ullamcorper. Vestibulum at neque tortor. Pellentesque urna enim, ultricies at tortor eu, elementum egestas leo. In hac habitasse platea dictumst.",
+        "avatarImg": "/images/avatar-2.jpg",
+        "avatarName": "Pamela Anders",
+        "avatarCompany": "Company Name"
+      },
+      {
+        "reviewText": "Donec tellus sem, tempor ac purus a, porttitor lobortis purus. Etiam quis nisl eget ex pulvinar consectetur. Suspendisse potenti. Cras non elementum risus. Fusce massa tellus, consequat a rutrum et, aliquam a lacus. Quisque viverra egestas tincidunt. Nunc nec nisi sed enim consectetur ullamcorper. Vestibulum at neque tortor. Pellentesque urna enim, ultricies at tortor eu, elementum egestas leo. In hac habitasse platea dictumst.",
+        "avatarImg": "/images/avatar-3.jpg",
+        "avatarName": "Pamela Anders",
+        "avatarCompany": "Company Name"
+      }
+    ]
+  },
+  "contact": {
+    "sectionHeading": {
+      "title": "Let’s Discuss Your Project",
+      "subTitle": "Always available for freelancing if the right project comes along, Feel free to contact me."
+    },
+    "contactImg": "/images/contact-us.png",
+    "contactInfo": [
+      { "title": "Write an e-mail", "email": "jobanpreetsinghit@.com" },
+      { "title": "write an e-mail", "tel": "+91 85590-18574" }
+    ]
+  }
+}
