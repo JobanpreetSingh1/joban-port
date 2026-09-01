@@ -23,7 +23,7 @@ export default function ContactForm () {
     setLoading (true);
 
     try {
-      const res = await fetch ('https://script.google.com/macros/s/AKfycbzJTVc47gObCqbji7TknrEw4O-26_k-haowx7MTYo0y8-gHUPI344cRCQDvIzV87Exo/exec', {
+      await fetch ('https://script.google.com/macros/s/AKfycbzJTVc47gObCqbji7TknrEw4O-26_k-haowx7MTYo0y8-gHUPI344cRCQDvIzV87Exo/exec', {
         method: 'POST',
         mode: 'no-cors', // Apps Script requires no-cors
         headers: {
